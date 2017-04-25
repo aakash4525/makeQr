@@ -1,0 +1,24 @@
+{
+    // Required
+    "manifest_version": 2,
+    "name": "makeQr",
+    "version": "1.0",
+    
+    // optional
+    "description": "First Extension",
+    
+    // icon in chrome://extensions
+    "icons": {
+        // 48x48 
+        "48": "icons/qr-code-48.png"
+    },
+    
+    "browser_action": {
+        "default_icon": "icons/qr-code.png", // icon
+        "default_title": "MakeQr", // tooltip
+        "default_popup": "makeQr.html" // html page
+    },
+    
+    // for getting the tab info
+    "permissions": ["tabs"]
+}

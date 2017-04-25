@@ -1,0 +1,9 @@
+Instruction:-
+1. Goto Chrome Settings > Extensions (OR Paste 'chrome://extensions/' in url bar)
+2. Turn on Developer mode
+3. click on 'Load unpacked extension'
+4. select this folder
+5. All Done !!!!
+
+GitHub:-
+    https://github.com/aakash4525/makeQr.git

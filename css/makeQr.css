@@ -1,0 +1,12 @@
+#div-qr-wrapper {
+    text-align: center;
+}
+
+#input-text {
+    width: 200px;
+}
+
+#div-qr {
+    width: 200px;
+    margin: 10px auto 0px;
+}
