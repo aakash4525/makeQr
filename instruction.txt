@@ -4,6 +4,6 @@ Instruction:-
 3. click on 'Load unpacked extension'
 4. select this folder
 5. All Done !!!!
-
+6.
 GitHub:-
     https://github.com/aakash4525/makeQr.git
